@@ -133,10 +133,18 @@ nav-links a:hover{
      }
      .section-subtitle{
         text-align: center;
-        font-size: 1.1rem;
+        font-size: 1.5rem;
         color: #666;
         margin-bottom: 3rem;
+        font-weight: bold;   
+        }
+
+
+     section {
+      padding: 60px 20px;
      }
+
+
 
      .menu-category{
         margin-bottom: 3rem;
